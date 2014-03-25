@@ -8,27 +8,14 @@ Computational_graphic_project
 
 
 
-###### [Bio-Project](http://apily.io/slidify?md=https://raw.githubusercontent.com/farruggio/Computational_graphic_project/master/HowTo_BIO/HowToBio.md)
-###### [Cg-Project](http://apily.io/slidify?md=https://raw.githubusercontent.com/farruggio/Computational_graphic_project/master/HowTo_Grafica/HowTo_3d.md)
+###### [Bio-Project](https://github.com/farruggio/Computational_graphic_project/tree/master/HowTo_BIO)
+###### [Cg-Project](https://github.com/farruggio/Computational_graphic_project/tree/master/HowTo_Grafica)
+######[4-Algorithm for image processing](https://github.com/farruggio/Computational_graphic_project/tree/master/algorithms_for_image_processing)
 
 ============================
 ######*Authors : Andrea Farruggio - Giovanni Pace*
-* Border Discovery
-* Edge tracker
-* Region growing for edge detection
 
-- - -
-## Border Discovery
-
-![image_3](https://raw.github.com/cvdlab-cg/442999/master/progetto/seg_image/border_discorvery1.jpg)
-
-- - -
-
-## Edge tracker
-
-![image_1](https://raw.github.com/cvdlab-cg/442999/master/progetto/seg_image/trackingedge1.jpg)
-- - -
-
+============================
 ## Region growing for edge detection
 
 ![image_1](https://raw.github.com/cvdlab-cg/442999/master/progetto/seg_image/RegionGrowing_1.jpg)
