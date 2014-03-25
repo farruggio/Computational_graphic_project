@@ -8,8 +8,8 @@ Computational_graphic_project
 
 
 
-###### [Bio-Project](https://raw.githubusercontent.com/farruggio/Computational_graphic_project/master/HowTo_BIO/HowToBio.md)
-###### [Cg-Project](https://raw.githubusercontent.com/farruggio/Computational_graphic_project/master/HowTo_Grafica/HowTo_3d.md)
+###### [Bio-Project](http://apily.io/slidify?md=https://raw.githubusercontent.com/farruggio/Computational_graphic_project/master/HowTo_BIO/HowToBio.md)
+###### [Cg-Project](http://apily.io/slidify?md=https://raw.githubusercontent.com/farruggio/Computational_graphic_project/master/HowTo_Grafica/HowTo_3d.md)
 
 ============================
 ######*Authors : Andrea Farruggio - Giovanni Pace*
